@@ -1,4 +1,3 @@
-
 from scapy.all import DNS, DNSQR, IP, sr1, UDP
 import argparse
 
